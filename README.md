@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **MERN Stack Projects**
 
-- 🌱 I’m currently learning **Competitive Programming**
-
 - 👨‍💻 All of my projects are available at [https://github.com/jaypatel523](https://github.com/jaypatel523)
 
 - 💬 Ask me about **MERN**
